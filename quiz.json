@@ -91,145 +91,104 @@
          "hints" : "Proverb 3:35 : The wise shall inherit glory: but shame shall be the promotion of fools."
       },
       {
-         "question" : "",
-         "opta" : "",
-         "optb" : "",
-         "optc" : "",
-         "optd" : "",
-         "answer" : "",
-         "stage" : "",
-         "hints" : ""
+         "question" : "For the Lord shall be thy ............., and shall keep thy ........... from being taken.",
+         "opta" : "shelter, foot",
+         "optb" : "confidence, foots",
+         "optc" : "shelter, wealth",
+         "optd" : "confidence, foot",
+         "answer" : "confidence, foot",
+         "stage" : 1,
+         "hints" : "Proverb 3:26 : For the Lord shall be thy confidence, and shall keep thy foot from being taken."
       },
       {
-         "question" : "",
-         "opta" : "",
-         "optb" : "",
-         "optc" : "",
-         "optd" : "",
-         "answer" : "",
-         "stage" : "",
-         "hints" : ""
+         "question" : "By his knowledge the depths are broken up, and the clouds drop down the dew.",
+         "opta" : "knowledge, enemies",
+         "optb" : "knowledge, depths",
+         "optc" : "understanding, depths",
+         "optd" : "knowledge, depth",
+         "answer" : "knowledge, depths",
+         "stage" : 1,
+         "hints" : "Proverb 3:20 : By his knowledge the depths are broken up, and the clouds drop down the dew."
       },
       {
-         "question" : "",
-         "opta" : "",
-         "optb" : "",
-         "optc" : "",
-         "optd" : "",
-         "answer" : "",
-         "stage" : "",
-         "hints" : ""
+         "question" : "The Lord by ............. hath founded the ........; by ............ hath he established the ............",
+         "opta" : "wisdom, earth, understanding, heavens",
+         "optb" : "wisdom, world, knowledge, heavens",
+         "optc" : "wisdom, earth, understanding, heaven",
+         "optd" : "wisdoms, earth, understanding, heaven",
+         "answer" : "wisdom, earth, understanding, heavens",
+         "stage" : 1,
+         "hints" : "Proverb 3: 19 : The Lord by wisdom hath founded the earth; by understanding hath he established the heavens."
       },
       {
-         "question" : "",
-         "opta" : "",
-         "optb" : "",
-         "optc" : "",
-         "optd" : "",
-         "answer" : "",
-         "stage" : "",
-         "hints" : ""
+         "question" : "Length of days is in her ...........; and in her .......... riches and ...........",
+         "opta" : "right hand, left hand, honour",
+         "optb" : "left hand, right hand, honour",
+         "optc" : "right hand, left hand, glory",
+         "optd" : "left hand, right hand, glory",
+         "answer" : "right hand, left hand, honour",
+         "stage" : 1,
+         "hints" : "proverb 3:16 : Length of days is in her right hand; and in her left hand riches and honour."
       },
       {
-         "question" : "",
-         "opta" : "",
-         "optb" : "",
-         "optc" : "",
-         "optd" : "",
-         "answer" : "",
-         "stage" : "",
-         "hints" : ""
+         "question" : "Say not unto thy ............., Go, and come again, and to morrow I will give; ............... it by thee.",
+         "opta" : "love ones, when thou have",
+         "optb" : "neighbours, when thou hast",
+         "optc" : "friends, when thou have",
+         "optd" : "neighbour, when thou hast",
+         "answer" : "neighbour, when thou hast",
+         "stage" : 1,
+         "hints" : "Proverb 3:28 : Say not unto thy neighbour, Go, and come again, and to morrow I will give; when thou hast it by thee."
       },
       {
-         "question" : "",
-         "opta" : "",
-         "optb" : "",
-         "optc" : "",
-         "optd" : "",
-         "answer" : "",
-         "stage" : "",
-         "hints" : ""
+         "question" : "The curse of the Lord is in the .................: but he blesseth the ............... of the just.",
+         "opta" : "house of the wicked, habitation",
+         "optb" : "house of the evil one, habitation",
+         "optc" : "house of the wicked, generation",
+         "optd" : "house of the wicked, family",
+         "answer" : "house of the wicked, habitation",
+         "stage" : 1,
+         "hints" : "Proverb 3:33 : The curse of the Lord is in the house of the wicked: but he blesseth the habitation of the just."
       },
       {
-         "question" : "",
-         "opta" : "",
-         "optb" : "",
-         "optc" : "",
-         "optd" : "",
-         "answer" : "",
-         "stage" : "",
-         "hints" : ""
+         "question" : "Envy thou not the oppressor, and choose none of his ways.",
+         "opta" : "oppressor",
+         "optb" : "failure",
+         "optc" : "oppress",
+         "optd" : "oppessors",
+         "answer" : "oppressor",
+         "stage" : 1,
+         "hints" : "Proverb 3: 31 : Envy thou not the oppressor, and choose none of his ways."
       },
       {
-         "question" : "",
-         "opta" : "",
-         "optb" : "",
-         "optc" : "",
-         "optd" : "",
-         "answer" : "",
-         "stage" : "",
-         "hints" : ""
+         "question" : "........ with a man without ..........., if he have done thee ............",
+         "opta" : "Strive not, cause, no harm",
+         "optb" : "Be happy, envy, no harm",
+         "optc" : "Eat, scared, no harm",
+         "optd" : "Strive not, cause, harm",
+         "answer" : "Strive not, cause, no harm",
+         "stage" : 1,
+         "hints" : "proverb 3:30 : Strive not with a man without cause, if he have done thee no harm."
       },
       {
-         "question" : "",
-         "opta" : "",
-         "optb" : "",
-         "optc" : "",
-         "optd" : "",
-         "answer" : "",
+         "question" : "For the froward is ........ to the Lord: but his .......... is with the .....................",
+         "opta" : "abomination, secret, righteous",
+         "optb" : "abomination, needs, righteous",
+         "optc" : "abomination, ways, righteous",
+         "optd" : "abomination, secret, Lord",
+         "answer" : "abomination, secret, righteous",
          "stage" : "",
-         "hints" : ""
+         "hints" : "Proverb 3:32 : For the froward is abomination to the Lord: but his secret is with the righteous."
       },
       {
-         "question" : "",
-         "opta" : "",
-         "optb" : "",
-         "optc" : "",
-         "optd" : "",
-         "answer" : "",
+         "question" : "For I give you ........, forsake ye not my ........",
+         "opta" : "good doctrine, law",
+         "optb" : "good law, doctrine",
+         "optc" : "good law, discipline",
+         "optd" : "good doctrine, words",
+         "answer" : "good doctrine, law",
          "stage" : "",
-         "hints" : ""
-      },
-      {
-         "question" : "",
-         "opta" : "",
-         "optb" : "",
-         "optc" : "",
-         "optd" : "",
-         "answer" : "",
-         "stage" : "",
-         "hints" : ""
-      },
-      {
-         "question" : "",
-         "opta" : "",
-         "optb" : "",
-         "optc" : "",
-         "optd" : "",
-         "answer" : "",
-         "stage" : "",
-         "hints" : ""
-      },
-      {
-         "question" : "",
-         "opta" : "",
-         "optb" : "",
-         "optc" : "",
-         "optd" : "",
-         "answer" : "",
-         "stage" : "",
-         "hints" : ""
-      
-,
-      {
-         "question" : "",
-         "opta" : "",
-         "optb" : "",
-         "optc" : "",
-         "optd" : "",
-         "answer" : "",
-         "stage" : "",
-         "hints" : ""
+         "hints" : "Proverb 4:2 : For I give you good doctrine, forsake ye not my law."
       }
    ]
 }
