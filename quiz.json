@@ -195,8 +195,8 @@
          "question" : "For I give you ........, forsake ye not my ........",
          "opta" : "good doctrine, law",
          "optb" : "good law, doctrine",
-         "optc" : "good law, discipline",
-         "optd" : "good doctrine, words",
+         "optc" : "",
+         "optd" : "",
          "answer" : "good doctrine, law",
          "stage" : 1,
          "hints" : "Proverb 4:2 : For I give you good doctrine, forsake ye not my law."
