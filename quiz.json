@@ -1,10 +1,10 @@
 {
-   "quiz" : [
+   "products" : [
       {
          "question" : "My son, forget not my .........; but let thine heart keep my ............",
          "opta" : "love, law",
          "optb" : "law, love",
-		 "optc" : "law, commandments",
+         "optc" : "law, commandments",
          "optd" : "commandment, love",
          "answer" : "law,commandments",
          "stage" : 1,
@@ -14,95 +14,77 @@
          "question" : "So shalt thou find favour and good understanding in the sight of ............ and ............",
          "opta" : "God, Man",
          "optb" : "Man, God",
-		 "optc" : "Lord, Man",
+         "optc" : "Lord, Man",
          "optd" : "God, Parent",
          "answer" : "God, Man",
          "stage" : 1,
-         "hints" : "Proverb 3: 4 : So shalt thou find favour and good understanding in the sight of God and man."
-      }
-,
+         "hints" : "Proverb 3:4 : So shalt thou find favour and good understanding in the sight of God and man."
+      },
       {
-         "question" : "",
-         "opta" : "",
-         "optb" : "",
-		 "optc" : "",
-         "optd" : "",
-         "answer" : "",
+         "question" : "Trust in the ........ with all thine ...........; and lean not unto thine own ...............",
+         "opta" : "Lord, might, wisdom",
+         "optb" : "Lord, might, understanding",
+         "optc" : "Lord, heart, understanding",
+         "optd" : "Lord, power,foolishness",
+         "answer" : "Lord, heart, understanding",
+         "stage" : 1,
+         "hints" : "Proverb 3:5 : Trust in the Lord with all thine heart; and lean not unto thine own understanding"
+      },
+      {
+         "question" : "In all thy ways ........... him, and he shall ...........",
+         "opta" : "love,love you",
+         "optb" : "acknowledge, lead you",
+         "optc" : "acknowledge,baptise you",
+         "optd" : "acknowledge, direct thy paths",
+         "answer" : "acknowledge, direct thy paths",
+         "stage" : 1,
+         "hints" : "Proverb 3:6 : In all thy ways acknowledge him, and he shall direct thy paths."
+      },
+      {
+         "question" : "Be not .......... in thine own eyes: ............ the ........., and depart from evil.",
+         "opta" : "wise, fear, Lord",
+         "optb" : "wise, fear, God",
+         "optc" : "smart, fear, Parent",
+         "optd" : "wise, fear, Jesus",
+         "answer" : "wise, fear, Lord",
+         "stage" : 1,
+         "hints" : "proverb 3:7 : Be not wise in thine own eyes: fear the Lord, and depart from evil."
+      },
+      {
+         "question" : "My son, despise not the ........... of the Lord; neither be weary of his ................:",
+         "opta" : "saying, words",
+         "optb" : "chastening, correction",
+         "optc" : "chastenings, rebuke",
+         "optd" : "correction, chastening",
+         "answer" : "chastening, correction",
+         "stage" : 1,
+         "hints" : "Proverb 3:11 : My son, despise not the chastening of the Lord; neither be weary of his correction:"
+      },
+      {
+         "question" : "For whom the Lord loveth he ..........; even as a father the son in whom he delighteth.",
+         "opta" : "correcteth",
+         "optb" : "direct",
+         "optc" : "care for",
+         "optd" : "lead",
+         "answer" : "correcteth",
          "stage" : "",
-         "hints" : ""
-      }
-,
+         "hints" : "Proverb 3:12 :For whom the Lord loveth he correcteth; even as a father the son in whom he delighteth."
+      },
+      {
+         "question" : "Happy is the man that findeth ........, and the man that getteth ..................",
+         "opta" : "wife,wisdom",
+         "optb" : "wisdom,knowledge",
+         "optc" : "wisdom, understanding",
+         "optd" : "understanding, wisdom",
+         "answer" : "wisdom, understanding",
+         "stage" : 1,
+         "hints" : "Proverb 3:13 : Happy is the man that findeth wisdom, and the man that getteth understanding."
+      },
       {
          "question" : "",
          "opta" : "",
          "optb" : "",
-		 "optc" : "",
-         "optd" : "",
-         "answer" : "",
-         "stage" : "",
-         "hints" : ""
-      }
-,
-      {
-         "question" : "",
-         "opta" : "",
-         "optb" : "",
-		 "optc" : "",
-         "optd" : "",
-         "answer" : "",
-         "stage" : "",
-         "hints" : ""
-      }
-,
-      {
-         "question" : "",
-         "opta" : "",
-         "optb" : "",
-		 "optc" : "",
-         "optd" : "",
-         "answer" : "",
-         "stage" : "",
-         "hints" : ""
-      }
-,
-      {
-         "question" : "",
-         "opta" : "",
-         "optb" : "",
-		 "optc" : "",
-         "optd" : "",
-         "answer" : "",
-         "stage" : "",
-         "hints" : ""
-      }
-,
-      {
-         "question" : "",
-         "opta" : "",
-         "optb" : "",
-		 "optc" : "",
-         "optd" : "",
-         "answer" : "",
-         "stage" : "",
-         "hints" : ""
-      }
-,
-      {
-         "question" : "",
-         "opta" : "",
-         "optb" : "",
-		 "optc" : "",
-         "optd" : "",
-         "answer" : "",
-         "stage" : "",
-         "hints" : ""
-      }
-,
-      {
-         "question" : "",
-         "opta" : "",
-         "optb" : "",
-		 "optc" : "",
+         "optc" : "",
          "optd" : "",
          "answer" : "",
          "stage" : "",
@@ -112,18 +94,7 @@
          "question" : "",
          "opta" : "",
          "optb" : "",
-		 "optc" : "",
-         "optd" : "",
-         "answer" : "",
-         "stage" : "",
-         "hints" : ""
-      }
-,
-      {
-         "question" : "",
-         "opta" : "",
-         "optb" : "",
-		 "optc" : "",
+         "optc" : "",
          "optd" : "",
          "answer" : "",
          "stage" : "",
@@ -133,73 +104,7 @@
          "question" : "",
          "opta" : "",
          "optb" : "",
-		 "optc" : "",
-         "optd" : "",
-         "answer" : "",
-         "stage" : "",
-         "hints" : ""
-      }
-,
-      {
-         "question" : "",
-         "opta" : "",
-         "optb" : "",
-		 "optc" : "",
-         "optd" : "",
-         "answer" : "",
-         "stage" : "",
-         "hints" : ""
-      }
-,
-      {
-         "question" : "",
-         "opta" : "",
-         "optb" : "",
-		 "optc" : "",
-         "optd" : "",
-         "answer" : "",
-         "stage" : "",
-         "hints" : ""
-      }
-,
-      {
-         "question" : "",
-         "opta" : "",
-         "optb" : "",
-		 "optc" : "",
-         "optd" : "",
-         "answer" : "",
-         "stage" : "",
-         "hints" : ""
-      }
-,
-      {
-         "question" : "",
-         "opta" : "",
-         "optb" : "",
-		 "optc" : "",
-         "optd" : "",
-         "answer" : "",
-         "stage" : "",
-         "hints" : ""
-      }
-,
-      {
-         "question" : "",
-         "opta" : "",
-         "optb" : "",
-		 "optc" : "",
-         "optd" : "",
-         "answer" : "",
-         "stage" : "",
-         "hints" : ""
-      }
-,
-      {
-         "question" : "",
-         "opta" : "",
-         "optb" : "",
-		 "optc" : "",
+         "optc" : "",
          "optd" : "",
          "answer" : "",
          "stage" : "",
@@ -209,34 +114,111 @@
          "question" : "",
          "opta" : "",
          "optb" : "",
-		 "optc" : "",
+         "optc" : "",
          "optd" : "",
          "answer" : "",
          "stage" : "",
          "hints" : ""
-      }
-,
+      },
       {
          "question" : "",
          "opta" : "",
          "optb" : "",
-		 "optc" : "",
+         "optc" : "",
          "optd" : "",
          "answer" : "",
          "stage" : "",
          "hints" : ""
-      }
-,
+      },
       {
          "question" : "",
          "opta" : "",
          "optb" : "",
-		 "optc" : "",
+         "optc" : "",
+         "optd" : "",
+         "answer" : "",
+         "stage" : "",
+         "hints" : ""
+      },
+      {
+         "question" : "",
+         "opta" : "",
+         "optb" : "",
+         "optc" : "",
+         "optd" : "",
+         "answer" : "",
+         "stage" : "",
+         "hints" : ""
+      },
+      {
+         "question" : "",
+         "opta" : "",
+         "optb" : "",
+         "optc" : "",
+         "optd" : "",
+         "answer" : "",
+         "stage" : "",
+         "hints" : ""
+      },
+      {
+         "question" : "",
+         "opta" : "",
+         "optb" : "",
+         "optc" : "",
+         "optd" : "",
+         "answer" : "",
+         "stage" : "",
+         "hints" : ""
+      },
+      {
+         "question" : "",
+         "opta" : "",
+         "optb" : "",
+         "optc" : "",
+         "optd" : "",
+         "answer" : "",
+         "stage" : "",
+         "hints" : ""
+      },
+      {
+         "question" : "",
+         "opta" : "",
+         "optb" : "",
+         "optc" : "",
+         "optd" : "",
+         "answer" : "",
+         "stage" : "",
+         "hints" : ""
+      },
+      {
+         "question" : "",
+         "opta" : "",
+         "optb" : "",
+         "optc" : "",
+         "optd" : "",
+         "answer" : "",
+         "stage" : "",
+         "hints" : ""
+      },
+      {
+         "question" : "",
+         "opta" : "",
+         "optb" : "",
+         "optc" : "",
+         "optd" : "",
+         "answer" : "",
+         "stage" : "",
+         "hints" : ""
+      },
+      {
+         "question" : "",
+         "opta" : "",
+         "optb" : "",
+         "optc" : "",
          "optd" : "",
          "answer" : "",
          "stage" : "",
          "hints" : ""
       }
-      
    ]
 }
