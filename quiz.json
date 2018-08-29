@@ -11,14 +11,14 @@
          "hints" : "Proverb 3:1 : My son, forget not my law; but let thine heart keep my commandments"
       },
       {
-         "question" : "",
-         "opta" : "",
-         "optb" : "",
-		 "optc" : "",
-         "optd" : "",
-         "answer" : "",
-         "stage" : "",
-         "hints" : ""
+         "question" : "So shalt thou find favour and good understanding in the sight of ............ and ............",
+         "opta" : "God, Man",
+         "optb" : "Man, God",
+		 "optc" : "Lord, Man",
+         "optd" : "God, Parent",
+         "answer" : "God, Man",
+         "stage" : 1,
+         "hints" : "Proverb 3: 4 : So shalt thou find favour and good understanding in the sight of God and man."
       }
 ,
       {
