@@ -81,14 +81,14 @@
          "hints" : "Proverb 3:13 : Happy is the man that findeth wisdom, and the man that getteth understanding."
       },
       {
-         "question" : "",
-         "opta" : "",
-         "optb" : "",
-         "optc" : "",
-         "optd" : "",
-         "answer" : "",
-         "stage" : "",
-         "hints" : ""
+         "question" : "The ....... shall inherit ........: but .......... shall be the promotion of .......",
+         "opta" : "wise, glory, shame, fools",
+         "optb" : "wise, glory, fools, wise",
+         "optc" : "smart, kingdom, shame,fools",
+         "optd" : "wise, glory, shame, fool",
+         "answer" : "wise, glory, shame, fools",
+         "stage" : 1,
+         "hints" : "Proverb 3:35 : The wise shall inherit glory: but shame shall be the promotion of fools."
       },
       {
          "question" : "",
