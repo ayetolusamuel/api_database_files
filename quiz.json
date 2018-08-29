@@ -32,9 +32,9 @@
       },
       {
          "question" : "In all thy ways ........... him, and he shall ...........",
-         "opta" : "love,love you",
+         "opta" : "love, love you",
          "optb" : "acknowledge, lead you",
-         "optc" : "acknowledge,baptise you",
+         "optc" : "acknowledge, baptise you",
          "optd" : "acknowledge, direct thy paths",
          "answer" : "acknowledge, direct thy paths",
          "stage" : 1,
