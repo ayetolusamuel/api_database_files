@@ -177,7 +177,7 @@
          "optc" : "abomination, ways, righteous",
          "optd" : "abomination, secret, Lord",
          "answer" : "abomination, secret, righteous",
-         "stage" : "",
+         "stage" : 1,
          "hints" : "Proverb 3:32 : For the froward is abomination to the Lord: but his secret is with the righteous."
       },
       {
@@ -187,7 +187,7 @@
          "optc" : "good law, discipline",
          "optd" : "good doctrine, words",
          "answer" : "good doctrine, law",
-         "stage" : "",
+         "stage" : 1,
          "hints" : "Proverb 4:2 : For I give you good doctrine, forsake ye not my law."
       }
    ]
