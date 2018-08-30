@@ -199,6 +199,16 @@
          "answer" : "taught me, words, commands",
          "stage" : 1,
          "hints" : "Proverb 4:4 : Then he taught me, and he said to me, Take hold of my words with all your heart; keep my commands, and you will live."
+      },
+      {
+         "question" : "When you ......., your steps will not be ......; when you run, you will not ........",
+         "opta" : "walk, hampered, stumble",
+         "optb" : "obey, move, fall",
+         "optc" : "obey, hampered, stumble",
+         "optd" : "walk, hampered, fall",
+         "answer" : "walk, hampered, stumble",
+         "stage" : 1,
+         "hints" : "Proverb 4:12 : When you walk, your steps will not be hampered;\r\n    when you run, you will not stumble."
       }
    ]
 }
