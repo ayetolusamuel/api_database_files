@@ -151,7 +151,7 @@
          "hints" : "Proverb 3:33 : The curse of the Lord is in the house of the wicked: but he blesseth the habitation of the just."
       },
       {
-         "question" : "Envy thou not the oppressor, and choose none of his ways.",
+         "question" : "Envy thou not the ......................, and choose none of his ways.",
          "opta" : "oppressor",
          "optb" : "failure",
          "optc" : "oppress",
@@ -189,17 +189,16 @@
          "answer" : "good doctrine, law",
          "stage" : 1,
          "hints" : "Proverb 4:2 : For I give you good doctrine, forsake ye not my law."
-      }
-      ,
+      },
       {
-         "question" : "",
-         "opta" : "good doctrine, law",
-         "optb" : "good law, doctrine",
-         "optc" : "",
-         "optd" : "",
-         "answer" : "good doctrine, law",
+         "question" : "Then he ........... , and he said to me, Take hold of my ........ with all your heart; keep my .........., and you will live.",
+         "opta" : "enlight me, commands, saying",
+         "optb" : "taught me, advices, commandments",
+         "optc" : "taught me, words, commandments",
+         "optd" : "taught me, words, commands",
+         "answer" : "taught me, words, commands",
          "stage" : 1,
-         "hints" : ""
+         "hints" : "Proverb 4:4 : Then he taught me, and he said to me, Take hold of my words with all your heart; keep my commands, and you will live."
       }
    ]
 }
