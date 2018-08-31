@@ -131,14 +131,14 @@
          "hints" : "proverb 3:16 : Length of days is in her right hand; and in her left hand riches and honour."
       },
       {
-         "question" : "Say not unto thy ............., Go, and come again, and to morrow I will give; ............... it by thee.",
+         "question" : "Say not unto thy ............., Go, and come again, and tomorrow I will give; ............... it by thee.",
          "opta" : "love ones, when thou have",
          "optb" : "neighbours, when thou hast",
          "optc" : "friends, when thou have",
          "optd" : "neighbour, when thou hast",
          "answer" : "neighbour, when thou hast",
          "stage" : 1,
-         "hints" : "Proverb 3:28 : Say not unto thy neighbour, Go, and come again, and to morrow I will give; when thou hast it by thee."
+         "hints" : "Proverb 3:28 : Say not unto thy neighbour, Go, and come again, and tomorrow I will give; when thou hast it by thee."
       },
       {
          "question" : "The curse of the Lord is in the .................: but he blesseth the ............... of the just.",
@@ -209,6 +209,176 @@
          "answer" : "walk, hampered, stumble",
          "stage" : 1,
          "hints" : "Proverb 4:12 : When you walk, your steps will not be hampered;\r\n    when you run, you will not stumble."
+      },
+      {
+         "question" : "A ...... man will hear, and will increase ..........; and a man of ............ shall attain unto wise counsels:",
+         "opta" : "wise, learning, understanding",
+         "optb" : "wise, knowing, knowledge",
+         "optc" : "wise, learning, knowledge",
+         "optd" : "wise, knowledge, understanding",
+         "answer" : "wise, learning, understanding",
+         "stage" : 1,
+         "hints" : "Proverb 1:5 : A wise man will hear, and will increase learning; and a man of understanding shall attain unto wise counsels:"
+      },
+      {
+         "question" : "The ........... of the Lord is the beginning of .........: but ........... despise wisdom and instruction.",
+         "opta" : "fear, knowledge, fools",
+         "optb" : "fear, wisdom, fool",
+         "optc" : "fear, knowledge, fool",
+         "optd" : "fear,wisdom, fools",
+         "answer" : "fear, knowledge, fools",
+         "stage" : 1,
+         "hints" : "Proverb 1:7 : The fear of the Lord is the beginning of knowledge: but fools despise wisdom and instruction."
+      },
+      {
+         "question" : "My son, hear the .......... of thy father, and .......... not the law of thy mother:",
+         "opta" : "saying, shun down",
+         "optb" : "saying, forsake",
+         "optc" : "word, forsake",
+         "optd" : "instruction, forsake",
+         "answer" : "instruction, forsake",
+         "stage" : 1,
+         "hints" : "Prover 1:8 : My son, hear the instruction of thy father, and forsake not the law of thy mother:"
+      },
+      {
+         "question" : "My son, if ............ entice thee, ...... thou not.",
+         "opta" : "sinners, consent",
+         "optb" : "sinner, agree",
+         "optc" : "evil one, consent",
+         "optd" : "sinners, conset",
+         "answer" : "sinners, consent",
+         "stage" : 1,
+         "hints" : "Proverb 1:10 : My son, if sinners entice thee, consent thou not."
+      },
+      {
+         "question" : "Then shall they call upon me, but I will ..............; they shall ..........., but they shall not find me:",
+         "opta" : "not answer, seek",
+         "optb" : "answer, call upon me",
+         "optc" : "not answer, seek me early",
+         "optd" : "answer, seek me",
+         "answer" : "not answer, seek me early",
+         "stage" : 1,
+         "hints" : "Proverb 1:28 : Then shall they call upon me, but I will not answer; they shall seek me early, but they shall not find me:"
+      },
+      {
+         "question" : "For that they .......... knowledge, and did .......... the fear of the Lord:",
+         "opta" : "loveth, choose",
+         "optb" : " hated, choose",
+         "optc" : "loveth, not choose",
+         "optd" : "hated, not choose",
+         "answer" : "hated, not choose",
+         "stage" : 1,
+         "hints" : "Proverb 1:29 : For that they hated knowledge, and did not choose the fear of the Lord:"
+      },
+      {
+         "question" : "Therefore shall they eat of the fruit of their own way, and be filled with their ...........",
+         "opta" : "own devices",
+         "optb" : "lust",
+         "optc" : "devices",
+         "optd" : "interest",
+         "answer" : "own devices",
+         "stage" : 1,
+         "hints" : "Proverb 1:31 : Therefore shall they eat of the fruit of their own way, and be filled with their own devices."
+      },
+      {
+         "question" : "For the turning away of the simple shall slay them, and the ......... of fools shall ......... them.",
+         "opta" : "prosperity, destroy",
+         "optb" : "prosperity, saved",
+         "optc" : "thought, saved",
+         "optd" : "prosperity, enrich",
+         "answer" : "prosperity, destroy",
+         "stage" : 1,
+         "hints" : "Proverb 1:32 : For the turning away of the simple shall slay them, and the prosperity of fools shall destroy them."
+      },
+      {
+         "question" : "But whoso ......... unto me shall dwell safely, and shall be ....... from fear of evil.",
+         "opta" : "hearkeneth, quiet",
+         "optb" : "harken, quiet",
+         "optc" : "harkeneth, protected",
+         "optd" : "obey, shelter",
+         "answer" : "hearkeneth, quiet",
+         "stage" : 1,
+         "hints" : "Proverb 1:33 : But whoso hearkeneth unto me shall dwell safely, and shall be quiet from fear of evil."
+      },
+      {
+         "question" : "For the Lord giveth ......: out of his mouth cometh .......... and ...................",
+         "opta" : "knowledge, wisdom, understanding",
+         "optb" : "wisdom, knowledge, understanding",
+         "optc" : "understanding, wisdom, knowledge",
+         "optd" : "knowledge, understanding, wisdom",
+         "answer" : "wisdom, knowledge, understanding",
+         "stage" : 1,
+         "hints" : "Proverb 2:6 : For the Lord giveth wisdom: out of his mouth cometh knowledge and understanding."
+      },
+      {
+         "question" : "He layeth up sound wisdom for the .......: he is a buckler to them that walk uprightly.",
+         "opta" : "christian",
+         "optb" : "righteous",
+         "optc" : "believers",
+         "optd" : "Apostles",
+         "answer" : "righteous",
+         "stage" : 1,
+         "hints" : "Proverb 2:7 : He layeth up sound wisdom for the righteous: he is a buckler to them that walk uprightly."
+      },
+      {
+         "question" : "When wisdom entereth into thine heart, and knowledge is pleasant unto thy ..........;",
+         "opta" : "system",
+         "optb" : "body",
+         "optc" : "heart",
+         "optd" : "soul",
+         "answer" : "soul",
+         "stage" : 1,
+         "hints" : "Proverb 2:10 : When wisdom entereth into thine heart, and knowledge is pleasant unto thy soul;"
+      },
+      {
+         "question" : ".............. shall preserve thee, .............. shall keep thee:",
+         "opta" : "Discretion, understanding",
+         "optb" : "Lord, truth",
+         "optc" : "Scripture, Lord",
+         "optd" : "Lord, understanding",
+         "answer" : "Discretion, understanding",
+         "stage" : 1,
+         "hints" : "Proverb 2:11 : Discretion shall preserve thee, understanding shall keep thee:"
+      },
+      {
+         "question" : "To deliver thee from the way of the evil man, from the man that speaketh ...........;",
+         "opta" : "froward things",
+         "optb" : "truth",
+         "optc" : "evil",
+         "optd" : "froward",
+         "answer" : "froward things",
+         "stage" : 1,
+         "hints" : "Proverb 2:12 : To deliver thee from the way of the evil man, from the man that speaketh froward things;"
+      },
+      {
+         "question" : "For her house ............ unto death, and her paths unto the dead.",
+         "opta" : "inclineth",
+         "optb" : "lead",
+         "optc" : "path",
+         "optd" : "guide",
+         "answer" : "inclineth",
+         "stage" : 1,
+         "hints" : "Proverb 2:18 : For her house inclineth unto death, and her paths unto the dead."
+      },
+      {
+         "question" : "For the ........... shall dwell in the land, and the .......... shall remain in it.",
+         "opta" : "upright, perfect",
+         "optb" : "youths, christian",
+         "optc" : "perfect man, upright",
+         "optd" : "upright, upright",
+         "answer" : "upright, perfect",
+         "stage" : 1,
+         "hints" : "Proverb 2:21 : For the upright shall dwell in the land, and the perfect shall remain in it."
+      },
+      {
+         "question" : "But the ........ shall be cut off from the earth, and the .............. shall be rooted out of it.",
+         "opta" : "devil, calamity",
+         "optb" : "evil one, transgressors",
+         "optc" : "wicked, transgressors",
+         "optd" : "wicked, transgressor",
+         "answer" : "wicked, transgressors",
+         "stage" : 1,
+         "hints" : "Proverb 2:22 : But the wicked shall be cut off from the earth, and the transgressors shall be rooted out of it."
       }
    ]
 }
