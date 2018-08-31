@@ -8,7 +8,7 @@
          "optd" : "commandment, love",
          "answer" : "law,commandments",
          "stage" : 1,
-         "hints" : "Proverb 3:1 : My son, forget not my law; but let thine heart keep my commandments"
+         "hints" : "Proverb 3:1  My son, forget not my law; but let thine heart keep my commandments"
       },
       {
          "question" : "So shalt thou find favour and good understanding in the sight of ............ and ............",
@@ -18,7 +18,7 @@
          "optd" : "God, Parent",
          "answer" : "God, Man",
          "stage" : 1,
-         "hints" : "Proverb 3:4 : So shalt thou find favour and good understanding in the sight of God and man."
+         "hints" : "Proverb 3:4 So shalt thou find favour and good understanding in the sight of God and man."
       },
       {
          "question" : "Trust in the ........ with all thine ...........; and lean not unto thine own ...............",
@@ -28,7 +28,7 @@
          "optd" : "Lord, power,foolishness",
          "answer" : "Lord, heart, understanding",
          "stage" : 1,
-         "hints" : "Proverb 3:5 : Trust in the Lord with all thine heart; and lean not unto thine own understanding"
+         "hints" : "Proverb 3:5 Trust in the Lord with all thine heart; and lean not unto thine own understanding"
       },
       {
          "question" : "In all thy ways ........... him, and he shall ...........",
@@ -38,7 +38,7 @@
          "optd" : "acknowledge, direct thy paths",
          "answer" : "acknowledge, direct thy paths",
          "stage" : 1,
-         "hints" : "Proverb 3:6 : In all thy ways acknowledge him, and he shall direct thy paths."
+         "hints" : "Proverb 3:6 In all thy ways acknowledge him, and he shall direct thy paths."
       },
       {
          "question" : "Be not .......... in thine own eyes: ............ the ........., and depart from evil.",
@@ -48,7 +48,7 @@
          "optd" : "wise, fear, Jesus",
          "answer" : "wise, fear, Lord",
          "stage" : 1,
-         "hints" : "proverb 3:7 : Be not wise in thine own eyes: fear the Lord, and depart from evil."
+         "hints" : "proverb 3:7 Be not wise in thine own eyes: fear the Lord, and depart from evil."
       },
       {
          "question" : "My son, despise not the ........... of the Lord; neither be weary of his ................:",
@@ -58,7 +58,7 @@
          "optd" : "correction, chastening",
          "answer" : "chastening, correction",
          "stage" : 1,
-         "hints" : "Proverb 3:11 : My son, despise not the chastening of the Lord; neither be weary of his correction:"
+         "hints" : "Proverb 3:11  My son, despise not the chastening of the Lord; neither be weary of his correction:"
       },
       {
          "question" : "For whom the Lord loveth he ..........; even as a father the son in whom he delighteth.",
@@ -68,7 +68,7 @@
          "optd" : "lead",
          "answer" : "correcteth",
          "stage" : 1,
-         "hints" : "Proverb 3:12 :For whom the Lord loveth he correcteth; even as a father the son in whom he delighteth."
+         "hints" : "Proverb 3:12 For whom the Lord loveth he correcteth; even as a father the son in whom he delighteth."
       },
       {
          "question" : "Happy is the man that findeth ........, and the man that getteth ..................",
@@ -78,7 +78,7 @@
          "optd" : "understanding, wisdom",
          "answer" : "wisdom, understanding",
          "stage" : 1,
-         "hints" : "Proverb 3:13 : Happy is the man that findeth wisdom, and the man that getteth understanding."
+         "hints" : "Proverb 3:13 Happy is the man that findeth wisdom, and the man that getteth understanding."
       },
       {
          "question" : "The ....... shall inherit ........: but .......... shall be the promotion of .......",
@@ -88,7 +88,7 @@
          "optd" : "wise, glory, shame, fool",
          "answer" : "wise, glory, shame, fools",
          "stage" : 1,
-         "hints" : "Proverb 3:35 : The wise shall inherit glory: but shame shall be the promotion of fools."
+         "hints" : "Proverb 3:35 The wise shall inherit glory: but shame shall be the promotion of fools."
       },
       {
          "question" : "For the Lord shall be thy ............., and shall keep thy ........... from being taken.",
@@ -98,7 +98,7 @@
          "optd" : "confidence, foot",
          "answer" : "confidence, foot",
          "stage" : 1,
-         "hints" : "Proverb 3:26 : For the Lord shall be thy confidence, and shall keep thy foot from being taken."
+         "hints" : "Proverb 3:26 For the Lord shall be thy confidence, and shall keep thy foot from being taken."
       },
       {
          "question" : "By his ................... the ........... are broken up, and the clouds drop down the dew.",
@@ -108,7 +108,7 @@
          "optd" : "knowledge, depth",
          "answer" : "knowledge, depths",
          "stage" : 1,
-         "hints" : "Proverb 3:20 : By his knowledge the depths are broken up, and the clouds drop down the dew."
+         "hints" : "Proverb 3:20 By his knowledge the depths are broken up, and the clouds drop down the dew."
       },
       {
          "question" : "The Lord by ............. hath founded the ........; by ............ hath he established the ............",
@@ -118,7 +118,7 @@
          "optd" : "wisdoms, earth, understanding, heaven",
          "answer" : "wisdom, earth, understanding, heavens",
          "stage" : 1,
-         "hints" : "Proverb 3: 19 : The Lord by wisdom hath founded the earth; by understanding hath he established the heavens."
+         "hints" : "Proverb 3: 19 The Lord by wisdom hath founded the earth; by understanding hath he established the heavens."
       },
       {
          "question" : "Length of days is in her ...........; and in her .......... riches and ...........",
@@ -128,7 +128,7 @@
          "optd" : "left hand, right hand, glory",
          "answer" : "right hand, left hand, honour",
          "stage" : 1,
-         "hints" : "proverb 3:16 : Length of days is in her right hand; and in her left hand riches and honour."
+         "hints" : "proverb 3:16 Length of days is in her right hand; and in her left hand riches and honour."
       },
       {
          "question" : "Say not unto thy ............., Go, and come again, and tomorrow I will give; ............... it by thee.",
@@ -138,7 +138,7 @@
          "optd" : "neighbour, when thou hast",
          "answer" : "neighbour, when thou hast",
          "stage" : 1,
-         "hints" : "Proverb 3:28 : Say not unto thy neighbour, Go, and come again, and tomorrow I will give; when thou hast it by thee."
+         "hints" : "Proverb 3:28 Say not unto thy neighbour, Go, and come again, and tomorrow I will give; when thou hast it by thee."
       },
       {
          "question" : "The curse of the Lord is in the .................: but he blesseth the ............... of the just.",
@@ -148,7 +148,7 @@
          "optd" : "house of the wicked, family",
          "answer" : "house of the wicked, habitation",
          "stage" : 1,
-         "hints" : "Proverb 3:33 : The curse of the Lord is in the house of the wicked: but he blesseth the habitation of the just."
+         "hints" : "Proverb 3:33  The curse of the Lord is in the house of the wicked: but he blesseth the habitation of the just."
       },
       {
          "question" : "Envy thou not the ......................, and choose none of his ways.",
@@ -158,7 +158,7 @@
          "optd" : "oppessors",
          "answer" : "oppressor",
          "stage" : 1,
-         "hints" : "Proverb 3: 31 : Envy thou not the oppressor, and choose none of his ways."
+         "hints" : "Proverb 3: 31 Envy thou not the oppressor, and choose none of his ways."
       },
       {
          "question" : "........ with a man without ..........., if he have done thee ............",
@@ -168,7 +168,7 @@
          "optd" : "Strive not, cause, harm",
          "answer" : "Strive not, cause, no harm",
          "stage" : 1,
-         "hints" : "proverb 3:30 : Strive not with a man without cause, if he have done thee no harm."
+         "hints" : "proverb 3:30 Strive not with a man without cause, if he have done thee no harm."
       },
       {
          "question" : "For the froward is ........ to the Lord: but his .......... is with the .....................",
@@ -178,7 +178,7 @@
          "optd" : "abomination, secret, Lord",
          "answer" : "abomination, secret, righteous",
          "stage" : 1,
-         "hints" : "Proverb 3:32 : For the froward is abomination to the Lord: but his secret is with the righteous."
+         "hints" : "Proverb 3:32 For the froward is abomination to the Lord: but his secret is with the righteous."
       },
       {
          "question" : "For I give you ........, forsake ye not my ........",
@@ -188,7 +188,7 @@
          "optd" : "good doctrine, words",
          "answer" : "good doctrine, law",
          "stage" : 1,
-         "hints" : "Proverb 4:2 : For I give you good doctrine, forsake ye not my law."
+         "hints" : "Proverb 4:2 For I give you good doctrine, forsake ye not my law."
       },
       {
          "question" : "Then he ........... , and he said to me, Take hold of my ........ with all your heart; keep my .........., and you will live.",
@@ -198,7 +198,7 @@
          "optd" : "taught me, words, commands",
          "answer" : "taught me, words, commands",
          "stage" : 1,
-         "hints" : "Proverb 4:4 : Then he taught me, and he said to me, Take hold of my words with all your heart; keep my commands, and you will live."
+         "hints" : "Proverb 4:4 Then he taught me, and he said to me, Take hold of my words with all your heart; keep my commands, and you will live."
       },
       {
          "question" : "When you ......., your steps will not be ......; when you run, you will not ........",
@@ -208,7 +208,7 @@
          "optd" : "walk, hampered, fall",
          "answer" : "walk, hampered, stumble",
          "stage" : 1,
-         "hints" : "Proverb 4:12 : When you walk, your steps will not be hampered;\r\n    when you run, you will not stumble."
+         "hints" : "Proverb 4:12 When you walk, your steps will not be hampered;\r\n    when you run, you will not stumble."
       },
       {
          "question" : "A ...... man will hear, and will increase ..........; and a man of ............ shall attain unto wise counsels:",
@@ -218,7 +218,7 @@
          "optd" : "wise, knowledge, understanding",
          "answer" : "wise, learning, understanding",
          "stage" : 1,
-         "hints" : "Proverb 1:5 : A wise man will hear, and will increase learning; and a man of understanding shall attain unto wise counsels:"
+         "hints" : "Proverb 1:5 A wise man will hear, and will increase learning; and a man of understanding shall attain unto wise counsels:"
       },
       {
          "question" : "The ........... of the Lord is the beginning of .........: but ........... despise wisdom and instruction.",
@@ -228,7 +228,7 @@
          "optd" : "fear,wisdom, fools",
          "answer" : "fear, knowledge, fools",
          "stage" : 1,
-         "hints" : "Proverb 1:7 : The fear of the Lord is the beginning of knowledge: but fools despise wisdom and instruction."
+         "hints" : "Proverb 1:7  The fear of the Lord is the beginning of knowledge: but fools despise wisdom and instruction."
       },
       {
          "question" : "My son, hear the .......... of thy father, and .......... not the law of thy mother:",
@@ -238,7 +238,7 @@
          "optd" : "instruction, forsake",
          "answer" : "instruction, forsake",
          "stage" : 1,
-         "hints" : "Prover 1:8 : My son, hear the instruction of thy father, and forsake not the law of thy mother:"
+         "hints" : "Prover 1:8  My son, hear the instruction of thy father, and forsake not the law of thy mother:"
       },
       {
          "question" : "My son, if ............ entice thee, ...... thou not.",
@@ -248,7 +248,7 @@
          "optd" : "sinners, conset",
          "answer" : "sinners, consent",
          "stage" : 1,
-         "hints" : "Proverb 1:10 : My son, if sinners entice thee, consent thou not."
+         "hints" : "Proverb 1:10  My son, if sinners entice thee, consent thou not."
       },
       {
          "question" : "Then shall they call upon me, but I will ..............; they shall ..........., but they shall not find me:",
@@ -258,7 +258,7 @@
          "optd" : "answer, seek me",
          "answer" : "not answer, seek me early",
          "stage" : 1,
-         "hints" : "Proverb 1:28 : Then shall they call upon me, but I will not answer; they shall seek me early, but they shall not find me:"
+         "hints" : "Proverb 1:28  Then shall they call upon me, but I will not answer; they shall seek me early, but they shall not find me:"
       },
       {
          "question" : "For that they .......... knowledge, and did .......... the fear of the Lord:",
@@ -268,7 +268,7 @@
          "optd" : "hated, not choose",
          "answer" : "hated, not choose",
          "stage" : 1,
-         "hints" : "Proverb 1:29 : For that they hated knowledge, and did not choose the fear of the Lord:"
+         "hints" : "Proverb 1:29  For that they hated knowledge, and did not choose the fear of the Lord:"
       },
       {
          "question" : "Therefore shall they eat of the fruit of their own way, and be filled with their ...........",
@@ -278,7 +278,7 @@
          "optd" : "interest",
          "answer" : "own devices",
          "stage" : 1,
-         "hints" : "Proverb 1:31 : Therefore shall they eat of the fruit of their own way, and be filled with their own devices."
+         "hints" : "Proverb 1:31  Therefore shall they eat of the fruit of their own way, and be filled with their own devices."
       },
       {
          "question" : "For the turning away of the simple shall slay them, and the ......... of fools shall ......... them.",
@@ -288,7 +288,7 @@
          "optd" : "prosperity, enrich",
          "answer" : "prosperity, destroy",
          "stage" : 1,
-         "hints" : "Proverb 1:32 : For the turning away of the simple shall slay them, and the prosperity of fools shall destroy them."
+         "hints" : "Proverb 1:32  For the turning away of the simple shall slay them, and the prosperity of fools shall destroy them."
       },
       {
          "question" : "But whoso ......... unto me shall dwell safely, and shall be ....... from fear of evil.",
@@ -298,7 +298,7 @@
          "optd" : "obey, shelter",
          "answer" : "hearkeneth, quiet",
          "stage" : 1,
-         "hints" : "Proverb 1:33 : But whoso hearkeneth unto me shall dwell safely, and shall be quiet from fear of evil."
+         "hints" : "Proverb 1:33  But whoso hearkeneth unto me shall dwell safely, and shall be quiet from fear of evil."
       },
       {
          "question" : "For the Lord giveth ......: out of his mouth cometh .......... and ...................",
@@ -308,7 +308,7 @@
          "optd" : "knowledge, understanding, wisdom",
          "answer" : "wisdom, knowledge, understanding",
          "stage" : 1,
-         "hints" : "Proverb 2:6 : For the Lord giveth wisdom: out of his mouth cometh knowledge and understanding."
+         "hints" : "Proverb 2:6  For the Lord giveth wisdom: out of his mouth cometh knowledge and understanding."
       },
       {
          "question" : "He layeth up sound wisdom for the .......: he is a buckler to them that walk uprightly.",
@@ -318,7 +318,7 @@
          "optd" : "Apostles",
          "answer" : "righteous",
          "stage" : 1,
-         "hints" : "Proverb 2:7 : He layeth up sound wisdom for the righteous: he is a buckler to them that walk uprightly."
+         "hints" : "Proverb 2:7  He layeth up sound wisdom for the righteous: he is a buckler to them that walk uprightly."
       },
       {
          "question" : "When wisdom entereth into thine heart, and knowledge is pleasant unto thy ..........;",
@@ -328,7 +328,7 @@
          "optd" : "soul",
          "answer" : "soul",
          "stage" : 1,
-         "hints" : "Proverb 2:10 : When wisdom entereth into thine heart, and knowledge is pleasant unto thy soul;"
+         "hints" : "Proverb 2:10  When wisdom entereth into thine heart, and knowledge is pleasant unto thy soul;"
       },
       {
          "question" : ".............. shall preserve thee, .............. shall keep thee:",
@@ -338,7 +338,7 @@
          "optd" : "Lord, understanding",
          "answer" : "Discretion, understanding",
          "stage" : 1,
-         "hints" : "Proverb 2:11 : Discretion shall preserve thee, understanding shall keep thee:"
+         "hints" : "Proverb 2:11  Discretion shall preserve thee, understanding shall keep thee:"
       },
       {
          "question" : "To deliver thee from the way of the evil man, from the man that speaketh ...........;",
@@ -348,7 +348,7 @@
          "optd" : "froward",
          "answer" : "froward things",
          "stage" : 1,
-         "hints" : "Proverb 2:12 : To deliver thee from the way of the evil man, from the man that speaketh froward things;"
+         "hints" : "Proverb 2:12  To deliver thee from the way of the evil man, from the man that speaketh froward things;"
       },
       {
          "question" : "For her house ............ unto death, and her paths unto the dead.",
@@ -358,7 +358,7 @@
          "optd" : "guide",
          "answer" : "inclineth",
          "stage" : 1,
-         "hints" : "Proverb 2:18 : For her house inclineth unto death, and her paths unto the dead."
+         "hints" : "Proverb 2:18  For her house inclineth unto death, and her paths unto the dead."
       },
       {
          "question" : "For the ........... shall dwell in the land, and the .......... shall remain in it.",
@@ -368,7 +368,7 @@
          "optd" : "upright, upright",
          "answer" : "upright, perfect",
          "stage" : 1,
-         "hints" : "Proverb 2:21 : For the upright shall dwell in the land, and the perfect shall remain in it."
+         "hints" : "Proverb 2:21  For the upright shall dwell in the land, and the perfect shall remain in it."
       },
       {
          "question" : "But the ........ shall be cut off from the earth, and the .............. shall be rooted out of it.",
@@ -378,7 +378,187 @@
          "optd" : "wicked, transgressor",
          "answer" : "wicked, transgressors",
          "stage" : 1,
-         "hints" : "Proverb 2:22 : But the wicked shall be cut off from the earth, and the transgressors shall be rooted out of it."
+         "hints" : "Proverb 2:22  But the wicked shall be cut off from the earth, and the transgressors shall be rooted out of it."
+      },
+      {
+         "question" : "For I give you .........., forsake ye not my law.",
+         "opta" : "good doctrine",
+         "optb" : "good saying",
+         "optc" : "good scripture",
+         "optd" : "sound doctrine",
+         "answer" : "good doctrine",
+         "stage" : 1,
+         "hints" : "Proverb 4:2  For I give you good doctrine, forsake ye not my law."
+      },
+      {
+         "question" : "He taught me also, and said unto me, Let thine heart retain my words: keep my .............., and live.",
+         "opta" : "commandments",
+         "optb" : "saying",
+         "optc" : "laws",
+         "optd" : "words",
+         "answer" : "commandments",
+         "stage" : 1,
+         "hints" : "Proverb 4:4  He taught me also, and said unto me, Let thine heart retain my words: keep my commandments, and live."
+      },
+      {
+         "question" : "Get ........., get .......: forget it not; neither decline from the words of my mouth.",
+         "opta" : "understanding, wisdom",
+         "optb" : "wisdom, understanding",
+         "optc" : "knowledge, wisdom",
+         "optd" : "understanding, knowledge",
+         "answer" : "wisdom, understanding",
+         "stage" : 1,
+         "hints" : "Proverb 4:5  Get wisdom, get understanding: forget it not; neither decline from the words of my mouth."
+      },
+      {
+         "question" : "Forsake her not, and she shall ............ thee: love her, and she shall keep thee.",
+         "opta" : "preserve",
+         "optb" : "love",
+         "optc" : "protect",
+         "optd" : "guide",
+         "answer" : "preserve",
+         "stage" : 1,
+         "hints" : "Proverb 4:6  Forsake her not, and she shall preserve thee: love her, and she shall keep thee."
+      },
+      {
+         "question" : "Wisdom is the principal thing; therefore get wisdom: and with all thy getting get ...........",
+         "opta" : "understanding",
+         "optb" : "knowledge",
+         "optc" : "wisdom",
+         "optd" : "mischief",
+         "answer" : "understanding",
+         "stage" : 1,
+         "hints" : "Proverb 4:7  Wisdom is the principal thing; therefore get wisdom: and with all thy getting get understanding."
+      },
+      {
+         "question" : "Exalt her, and she shall promote thee: she shall bring thee to ..........., when thou dost embrace her.",
+         "opta" : "honour",
+         "optb" : "crown",
+         "optc" : "help",
+         "optd" : "shelter",
+         "answer" : "honour",
+         "stage" : 1,
+         "hints" : "proverb 4:8  Exalt her, and she shall promote thee: she shall bring thee to honour, when thou dost embrace her."
+      },
+      {
+         "question" : "She shall give to thine head an ......... of grace: a crown of .......... shall she deliver to thee.",
+         "opta" : "ornament, glory ",
+         "optb" : "ornament, honour",
+         "optc" : "crown, glory",
+         "optd" : "crown, glory",
+         "answer" : "ornament, glory ",
+         "stage" : 1,
+         "hints" : "Proverb 4:9 She shall give to thine head an ornament of grace: a crown of glory shall she deliver to thee."
+      },
+      {
+         "question" : "Hear, O my son, and receive my ............; and the years of thy life shall be many.",
+         "opta" : "sayings",
+         "optb" : "words",
+         "optc" : "saying",
+         "optd" : "word",
+         "answer" : "sayings",
+         "stage" : 1,
+         "hints" : "Proverb 4:10  Hear, O my son, and receive my sayings; and the years of thy life shall be many."
+      },
+      {
+         "question" : "I have taught thee in the way of ..........; I have led thee in right paths.",
+         "opta" : "Lord",
+         "optb" : "God",
+         "optc" : "wisdom",
+         "optd" : "understanding",
+         "answer" : "wisdom",
+         "stage" : 1,
+         "hints" : "Proverb 4:11  I have taught thee in the way of wisdom; I have led thee in right paths."
+      },
+      {
+         "question" : "When thou goest, thy steps shall not be .........; and when thou runnest, thou shalt not .......",
+         "opta" : "straitened, stumble",
+         "optb" : "moved, slip",
+         "optc" : "ashamed, stumble",
+         "optd" : "ashamed, be disappointed",
+         "answer" : "straitened, stumble",
+         "stage" : 1,
+         "hints" : "Proverb 4:12  When thou goest, thy steps shall not be straitened; and when thou runnest, thou shalt not stumble."
+      },
+      {
+         "question" : "Enter not into the ...... of the wicked, and go not in the way of evil men.",
+         "opta" : "path",
+         "optb" : "way",
+         "optc" : "gate",
+         "optd" : "say",
+         "answer" : "path",
+         "stage" : 1,
+         "hints" : "Proverb 4:14  Enter not into the path of the wicked, and go not in the way of evil men."
+      },
+      {
+         "question" : "For they eat the bread of ........., and drink the wine of ................",
+         "opta" : "wickedness, violence",
+         "optb" : "rich, poor",
+         "optc" : "rich, violence",
+         "optd" : "violence, wickedness",
+         "answer" : "wickedness, violence",
+         "stage" : 1,
+         "hints" : "Proverb 4:17  For they eat the bread of wickedness, and drink the wine of violence."
+      },
+      {
+         "question" : "But the path of the just is as the .............., that shineth more and more unto the ..... day.",
+         "opta" : "shining light, perfect",
+         "optb" : "light, nice",
+         "optc" : "narrow way, perfect",
+         "optd" : "shining light, tribulation",
+         "answer" : "shining light, perfect",
+         "stage" : 1,
+         "hints" : "Proverb 4:18  But the path of the just is as the shining light, that shineth more and more unto the perfect day."
+      },
+      {
+         "question" : "The way of the .......... is as .............: they know not at what they .............",
+         "opta" : "wicked, darkness, stumble",
+         "optb" : "righteous, light, inherit",
+         "optc" : "righteous, gold, inherit",
+         "optd" : "wicked, thick darkness, stumble",
+         "answer" : "wicked, darkness, stumble",
+         "stage" : 1,
+         "hints" : "Proverb 4:19  The way of the wicked is as darkness: they know not at what they stumble."
+      },
+      {
+         "question" : "My son, attend to my words; incline thine ear unto my ............",
+         "opta" : "sayings",
+         "optb" : "prophecies",
+         "optc" : "doctrine",
+         "optd" : "words",
+         "answer" : "sayings",
+         "stage" : 1,
+         "hints" : "Proverb 4:20  My son, attend to my words; incline thine ear unto my sayings."
+      },
+      {
+         "question" : "Let them ............ from thine eyes; keep them in the midst of thine heart.",
+         "opta" : "not depart",
+         "optb" : "depart",
+         "optc" : "maybe depart",
+         "optd" : "depart not",
+         "answer" : "not depart",
+         "stage" : 1,
+         "hints" : "Proverb 4:21  Let them not depart from thine eyes; keep them in the midst of thine heart."
+      },
+      {
+         "question" : "Keep thy heart with all ...........; for out of it are the ............ of life.",
+         "opta" : "diligence, issues",
+         "optb" : "dilligence, issue",
+         "optc" : "dilligences, issues",
+         "optd" : "dilligence, blessing",
+         "answer" : "diligence, issues",
+         "stage" : 1,
+         "hints" : "Proverb 4:23  Keep thy heart with all diligence; for out of it are the issues of life."
+      },
+      {
+         "question" : "Put away from thee a ........., and perverse ..... put far from thee.",
+         "opta" : "froward mouth, lips",
+         "optb" : "evil thought, lip",
+         "optc" : "froward saying, lip",
+         "optd" : "froward mouth, do",
+         "answer" : "froward mouth, lips",
+         "stage" : 1,
+         "hints" : "Proverb 4:24  Put away from thee a froward mouth, and perverse lips put far from thee."
       }
    ]
 }
