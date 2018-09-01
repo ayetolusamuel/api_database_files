@@ -569,6 +569,16 @@
          "answer" : "wisdom, understanding",
          "stage" : 1,
          "hints" : "Proverbs 5:1 My son, attend unto my wisdom, and bow thine ear to my understanding:"
+      },
+      {
+         "question" : "For the lips of a strange woman drop as an ......., and her mouth is smoother than oil:",
+         "opta" : "honeycomb",
+         "optb" : "honey",
+         "optc" : "honeycombs",
+         "optd" : "honeys",
+         "answer" : "honeycomb, ",
+         "stage" : 1,
+         "hints" : "Proverbs 5:3 For the lips of a strange woman drop as an honeycomb, and her mouth is smoother than oil:"
       }
    ]
 }
