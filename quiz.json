@@ -579,6 +579,16 @@
          "answer" : "honeycomb, ",
          "stage" : 1,
          "hints" : "Proverbs 5:3 For the lips of a strange woman drop as an honeycomb, and her mouth is smoother than oil:"
+      },
+      {
+         "question" : "But her end is bitter as ........, sharp as a two-edged sword.",
+         "opta" : "wormwood",
+         "optb" : "bitter leave",
+         "optc" : "wormwoods",
+         "optd" : "bitter",
+         "answer" : "wormwood",
+         "stage" : 1,
+         "hints" : "Proverbs 5:4 But her end is bitter as wormwood, sharp as a two-edged sword."
       }
    ]
 }
