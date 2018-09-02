@@ -781,5 +781,17 @@
          "stage" : 1,
          "hints" : "Galatians 6:1 Brethren, if a man be overtaken in a fault, ye which are spiritual, restore such an one in the spirit of meekness; considering thyself, lest thou also be tempted."
       }
+
+,
+      {
+         "question" : "",
+         "opta" : "",
+         "optb" : "",
+         "optc" : "",
+         "optd" : "",
+         "answer" : "",
+         "stage" : 1,
+         "hints" : ""
+      }
    ]
 }
