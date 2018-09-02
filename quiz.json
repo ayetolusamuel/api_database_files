@@ -782,5 +782,17 @@
          "stage" : 1,
          "hints" : "James 4:8 Draw nigh to God, and he will draw nigh to you. Cleanse your hands, ye sinners; and purify your hearts, ye double minded."
       }
+
+,
+      {
+         "question" : "And let us not be weary in well doing: for in due season we shall ........, if we faint not.",
+         "opta" : "reap",
+         "optb" : "harvest",
+         "optc" : "inherit",
+         "optd" : "be happy",
+         "answer" : "reap",
+         "stage" : 1,
+         "hints" : "Galatians 6:9 And let us not be weary in well doing: for in due season we shall reap, if we faint not."
+      }
    ]
 }
