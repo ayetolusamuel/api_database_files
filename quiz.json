@@ -625,12 +625,12 @@
       }
 ,
       {
-         "question" : "The wind bloweth where it listeth, and thou hearest the sound thereof, but canst not tell whence it cometh, and whither it goeth: so is every one that is born of the Spirit.",
-         "opta" : "",
-         "optb" : "",
-         "optc" : "",
-         "optd" : "",
-         "answer" : "",
+         "question" : "The wind bloweth where it listeth, and thou hearest the sound thereof, but canst not tell whence it cometh, and whither it goeth: so is every one that is born of the ......",
+         "opta" : "Spirit",
+         "optb" : "flesh",
+         "optc" : "holy spirit",
+         "optd" : "spirit of God",
+         "answer" : "Spirit",
          "stage" : 1,
          "hints" : "John 3:8 The wind bloweth where it listeth, and thou hearest the sound thereof, but canst not tell whence it cometh, and whither it goeth: so is every one that is born of the Spirit."
       }
