@@ -770,16 +770,16 @@
          "stage" : 1,
          "hints" : "Galatians 6:9 And let us not be weary in well doing: for in due season we shall reap, if we faint not."
       }
-      ,
+ ,
       {
-         "question" : ".",
+         "question" : "Brethren, if a man be overtaken in a fault, ye which are spiritual, restore such an one in the spirit of meekness; considering thyself, lest thou also be tempted.",
          "opta" : "reap",
          "optb" : "harvest",
          "optc" : "inherit",
          "optd" : "be happy",
          "answer" : "reap",
          "stage" : 1,
-         "hints" : " That is what am saying"
+         "hints" : "Galatians 6:1 Brethren, if a man be overtaken in a fault, ye which are spiritual, restore such an one in the spirit of meekness; considering thyself, lest thou also be tempted."
       }
    ]
 }
