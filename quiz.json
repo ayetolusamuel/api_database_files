@@ -589,8 +589,7 @@
          "answer" : "wormwood",
          "stage" : 1,
          "hints" : "Proverbs 5:4 But her end is bitter as wormwood, sharp as a two-edged sword."
-      }
-,
+      },
       {
          "question" : "Jesus answered and said unto him, Verily, verily, I say unto thee, Except a man ..........., he cannot see the kingdom of God.",
          "opta" : "repent",
@@ -600,8 +599,7 @@
          "answer" : "be born again",
          "stage" : 1,
          "hints" : "John 3:3 Jesus answered and said unto him, Verily, verily, I say unto thee, Except a man be born again, he cannot see the kingdom of God."
-      }
-,
+      },
       {
          "question" : "Jesus answered, Verily, verily, I say unto thee, Except a man be born of .............. and of the ........., he cannot enter into the kingdom of God.",
          "opta" : "water, Spirit",
@@ -611,8 +609,7 @@
          "answer" : "water, Spirit",
          "stage" : 1,
          "hints" : "John 3:5 Jesus answered, Verily, verily, I say unto thee, Except a man be born of water and of the Spirit, he cannot enter into the kingdom of God."
-      }
-,
+      },
       {
          "question" : "That which is born of the flesh is flesh; and that which is born of the ........... is .",
          "opta" : "Spirit, spirit",
@@ -622,8 +619,7 @@
          "answer" : "Spirit, spirit",
          "stage" : 1,
          "hints" : "John 3:6 That which is born of the flesh is flesh; and that which is born of the Spirit is spirit."
-      }
-,
+      },
       {
          "question" : "The wind bloweth where it listeth, and thou hearest the sound thereof, but canst not tell whence it cometh, and whither it goeth: so is every one that is born of the ......",
          "opta" : "Spirit",
@@ -633,157 +629,137 @@
          "answer" : "Spirit",
          "stage" : 1,
          "hints" : "John 3:8 The wind bloweth where it listeth, and thou hearest the sound thereof, but canst not tell whence it cometh, and whither it goeth: so is every one that is born of the Spirit."
-      }
-,
+      },
       {
-         "question" : "If I have told you earthly things, and ye believe not, how shall ye believe, if I tell you of heavenly things?",
-         "opta" : "",
-         "optb" : "",
-         "optc" : "",
-         "optd" : "",
-         "answer" : "",
+         "question" : "If I have told you earthly things, and ye believe not, how shall ye believe, if I tell you of ...............?",
+         "opta" : "heavenly things",
+         "optb" : "the truth",
+         "optc" : "things of the world",
+         "optd" : "heavenly thing",
+         "answer" : "heavenly things",
          "stage" : 1,
          "hints" : "John 3:12 If I have told you earthly things, and ye believe not, how shall ye believe, if I tell you of heavenly things?"
-      }
-,
+      },
       {
-         "question" : "And no man hath ascended up to heaven, but he that came down from heaven, even the Son of man which is in heaven.",
-         "opta" : "",
-         "optb" : "",
-         "optc" : "",
-         "optd" : "",
-         "answer" : "",
+         "question" : "And ........ hath ascended up to heaven, but he that came down from heaven, even the Son of man which is in heaven.",
+         "opta" : "no man",
+         "optb" : "Jesus",
+         "optc" : "Lord",
+         "optd" : "Jesus only",
+         "answer" : "no man",
          "stage" : 1,
          "hints" : "John 3:13 And no man hath ascended up to heaven, but he that came down from heaven, even the Son of man which is in heaven."
-      }
-,
+      },
       {
-         "question" : "For God so loved the world, that he gave his only begotten Son, that whosoever believeth in him should not perish, but have everlasting life.",
-         "opta" : "",
-         "optb" : "",
-         "optc" : "",
-         "optd" : "",
-         "answer" : "",
+         "question" : "For God so loved the world, that he gave his only begotten Son, that whosoever believeth in him should not perish, but have .....................",
+         "opta" : "everlasting life",
+         "optb" : "good life",
+         "optc" : "everlasting",
+         "optd" : "everlasting lifes",
+         "answer" : "everlasting life",
          "stage" : 1,
          "hints" : "John 3:16 For God so loved the world, that he gave his only begotten Son, that whosoever believeth in him should not perish, but have everlasting life."
-      }
-,
+      },
       {
-         "question" : "That whosoever believeth in him should not perish, but have eternal life.",
-         "opta" : "",
-         "optb" : "",
-         "optc" : "",
-         "optd" : "",
-         "answer" : "",
+         "question" : "That whosoever believeth in him should ........., but have eternal life.",
+         "opta" : " not perish",
+         "optb" : "perish not",
+         "optc" : "perish",
+         "optd" : "not perish on earth",
+         "answer" : " not perish",
          "stage" : 1,
          "hints" : "John 3:15 That whosoever believeth in him should not perish, but have eternal life."
-      }
-,
+      },
       {
-         "question" : "For God sent not his Son into the world to condemn the world; but that the world through him might be saved.",
-         "opta" : "",
-         "optb" : "",
-         "optc" : "",
-         "optd" : "",
-         "answer" : "",
+         "question" : "For God sent not his Son into the world to ........... the world; but that the world through him might be saved.",
+         "opta" : "condemn",
+         "optb" : "destroy",
+         "optc" : "eliminate ",
+         "optd" : "condemns",
+         "answer" : "condemn",
          "stage" : 1,
          "hints" : "John 3:17 For God sent not his Son into the world to condemn the world; but that the world through him might be saved."
-      }
-,
+      },
       {
-         "question" : "He that believeth on him is not condemned: but he that believeth not is condemned already, because he hath not believed in the name of the only begotten Son of God.",
-         "opta" : "",
-         "optb" : "",
-         "optc" : "",
-         "optd" : "",
-         "answer" : "",
+         "question" : "He that believeth on him is not ...........: but he that believeth not is ........... already, because he hath not believed in the name of the only begotten Son of God.",
+         "opta" : "condemn, condemned",
+         "optb" : "condemned, condemned",
+         "optc" : "condemn, condemn",
+         "optd" : "condemned, condemn",
+         "answer" : "condemned, condemned",
          "stage" : 1,
          "hints" : "John 3:18 He that believeth on him is not condemned: but he that believeth not is condemned already, because he hath not believed in the name of the only begotten Son of God."
-      }
-,
+      },
       {
-         "question" : "And this is the condemnation, that light is come into the world, and men loved darkness rather than light, because their deeds were evil.",
-         "opta" : "",
-         "optb" : "",
-         "optc" : "",
-         "optd" : "",
-         "answer" : "",
+         "question" : "And this is the ......, that light is come into the world, and men loved darkness rather than light, because their deeds were evil.",
+         "opta" : "condemnation",
+         "optb" : "evil saying",
+         "optc" : "evil",
+         "optd" : "false doctrine",
+         "answer" : "condemnation",
          "stage" : 1,
          "hints" : "John 3:19 And this is the condemnation, that light is come into the world, and men loved darkness rather than light, because their deeds were evil."
-      }
-,
+      },
       {
-         "question" : "And John also was baptizing in Aenon near to Salim, because there was much water there: and they came, and were baptized.",
-         "opta" : "",
-         "optb" : "",
-         "optc" : "",
-         "optd" : "",
-         "answer" : "",
+         "question" : "And John also was baptizing in ......... near to Salim, because there was much water there: and they came, and were baptized.",
+         "opta" : "Aenon",
+         "optb" : "river jordan",
+         "optc" : "jordan",
+         "optd" : "judea",
+         "answer" : "Aenon",
          "stage" : 1,
          "hints" : "John 3:23 And John also was baptizing in Aenon near to Salim, because there was much water there: and they came, and were baptized."
-      }
-,
+      },
       {
-         "question" : "For John was not yet cast into prison.",
-         "opta" : "",
-         "optb" : "",
-         "optc" : "",
-         "optd" : "",
-         "answer" : "",
+         "question" : "For ......... was not yet cast into prison.",
+         "opta" : "John",
+         "optb" : "Peter",
+         "optc" : "saul",
+         "optd" : "james",
+         "answer" : "John",
          "stage" : 1,
          "hints" : "John 3:24 For John was not yet cast into prison."
-      }
-
-,
+      },
       {
-         "question" : "John answered and said, A man can receive nothing, except it be given him from heaven.",
-         "opta" : "",
-         "optb" : "",
-         "optc" : "",
-         "optd" : "",
-         "answer" : "",
+         "question" : "John answered and said, A man can receive ......, except it be given him from .............",
+         "opta" : "nothing, heaven",
+         "optb" : "abundantly, heaven",
+         "optc" : "nothing, heaven",
+         "optd" : "nothing, God",
+         "answer" : "nothing, heaven",
          "stage" : 1,
          "hints" : "John 3:27 John answered and said, A man can receive nothing, except it be given him from heaven."
-      }
-
-,
+      },
       {
-         "question" : "The Father loveth the Son, and hath given all things into his hand.",
-         "opta" : "",
-         "optb" : "",
-         "optc" : "",
-         "optd" : "",
-         "answer" : "",
+         "question" : "The Father loveth the Son, and hath given ......... into his hand.",
+         "opta" : "all things",
+         "optb" : "all powers",
+         "optc" : "dominion",
+         "optd" : "powers",
+         "answer" : "all things",
          "stage" : 1,
          "hints" : "John 3:35 The Father loveth the Son, and hath given all things into his hand."
-      }
-
-,
+      },
       {
-         "question" : "He that believeth on the Son hath everlasting life: and he that believeth not the Son shall not see life; but the wrath of God abideth on him.",
-         "opta" : "",
-         "optb" : "",
-         "optc" : "",
-         "optd" : "",
-         "answer" : "",
+         "question" : "He that believeth on the Son hath ............: and he that believeth not the Son shall not see life; but the ........ of God abideth on him.",
+         "opta" : "life, wrath",
+         "optb" : "everlasting life, wrath",
+         "optc" : "everlasting, wrath",
+         "optd" : "joy, wrath",
+         "answer" : "everlasting life, wrath",
          "stage" : 1,
          "hints" : "John 3:36 He that believeth on the Son hath everlasting life: and he that believeth not the Son shall not see life; but the wrath of God abideth on him."
-      }
-
-
-,
+      },
       {
-         "question" : "Draw nigh to God, and he will draw nigh to you. Cleanse your hands, ye sinners; and purify your hearts, ye double minded.",
-         "opta" : "",
-         "optb" : "",
-         "optc" : "",
-         "optd" : "",
-         "answer" : "",
+         "question" : "............... to God, and he will draw nigh to you. Cleanse your hands, .............; and purify your hearts, ye double minded.",
+         "opta" : "Draw nigh, ye sinners",
+         "optb" : "Draw, sinners",
+         "optc" : "Draw nigh, sinners",
+         "optd" : "Draw nigh, from evil",
+         "answer" : "Draw nigh, ye sinners",
          "stage" : 1,
          "hints" : "James 4:8 Draw nigh to God, and he will draw nigh to you. Cleanse your hands, ye sinners; and purify your hearts, ye double minded."
-      }
-
-,
+      },
       {
          "question" : "And let us not be weary in well doing: for in due season we shall ........, if we faint not.",
          "opta" : "reap",
