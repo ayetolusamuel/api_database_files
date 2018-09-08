@@ -1,6 +1,7 @@
 {
    "quiz" : [
       {
+         "id" : "1",
          "question" : "My son, forget not my .........; but let thine heart keep my ............",
          "opta" : "love, law",
          "optb" : "law, love",
@@ -11,6 +12,7 @@
          "hints" : "Proverbs 3:1  My son, forget not my law; but let thine heart keep my commandments"
       },
       {
+         "id" : "2",
          "question" : "So shalt thou find favour and good understanding in the sight of ............ and ............",
          "opta" : "God, Man",
          "optb" : "Man, God",
@@ -21,6 +23,7 @@
          "hints" : "Proverbs 3:4 So shalt thou find favour and good understanding in the sight of God and man."
       },
       {
+         "id" : "3",
          "question" : "Trust in the ........ with all thine ...........; and lean not unto thine own ...............",
          "opta" : "Lord, might, wisdom",
          "optb" : "Lord, might, understanding",
@@ -31,6 +34,7 @@
          "hints" : "Proverbs 3:5 Trust in the Lord with all thine heart; and lean not unto thine own understanding"
       },
       {
+         "id" : "4",
          "question" : "In all thy ways ........... him, and he shall ...........",
          "opta" : "love, love you",
          "optb" : "acknowledge, lead you",
@@ -41,6 +45,7 @@
          "hints" : "Proverbs 3:6 In all thy ways acknowledge him, and he shall direct thy paths."
       },
       {
+         "id" : "5",
          "question" : "Be not .......... in thine own eyes: ............ the ........., and depart from evil.",
          "opta" : "wise, fear, Lord",
          "optb" : "wise, fear, God",
@@ -51,6 +56,7 @@
          "hints" : "Proverbs 3:7 Be not wise in thine own eyes: fear the Lord, and depart from evil."
       },
       {
+         "id" : "6",
          "question" : "My son, despise not the ........... of the Lord; neither be weary of his ................:",
          "opta" : "saying, words",
          "optb" : "chastening, correction",
@@ -61,6 +67,7 @@
          "hints" : "Proverbs 3:11  My son, despise not the chastening of the Lord; neither be weary of his correction:"
       },
       {
+         "id" : "7",
          "question" : "For whom the Lord loveth he ..........; even as a father the son in whom he delighteth.",
          "opta" : "correcteth",
          "optb" : "direct",
@@ -71,6 +78,7 @@
          "hints" : "Proverbs 3:12 For whom the Lord loveth he correcteth; even as a father the son in whom he delighteth."
       },
       {
+         "id" : "8",
          "question" : "Happy is the man that findeth ........, and the man that getteth ..................",
          "opta" : "wife,wisdom",
          "optb" : "wisdom,knowledge",
@@ -81,6 +89,7 @@
          "hints" : "Proverbs 3:13 Happy is the man that findeth wisdom, and the man that getteth understanding."
       },
       {
+         "id" : "9",
          "question" : "The ....... shall inherit ........: but .......... shall be the promotion of .......",
          "opta" : "wise, glory, shame, fools",
          "optb" : "wise, glory, fools, wise",
@@ -91,6 +100,7 @@
          "hints" : "Proverbs 3:35 The wise shall inherit glory: but shame shall be the promotion of fools."
       },
       {
+         "id" : "10",
          "question" : "For the Lord shall be thy ............., and shall keep thy ........... from being taken.",
          "opta" : "shelter, foot",
          "optb" : "confidence, foots",
@@ -101,6 +111,7 @@
          "hints" : "Proverbs 3:26 For the Lord shall be thy confidence, and shall keep thy foot from being taken."
       },
       {
+         "id" : "11",
          "question" : "By his ................... the ........... are broken up, and the clouds drop down the dew.",
          "opta" : "knowledge, enemies",
          "optb" : "knowledge, depths",
@@ -111,6 +122,7 @@
          "hints" : "Proverbs 3:20 By his knowledge the depths are broken up, and the clouds drop down the dew."
       },
       {
+         "id" : "12",
          "question" : "The Lord by ............. hath founded the ........; by ............ hath he established the ............",
          "opta" : "wisdom, earth, understanding, heavens",
          "optb" : "wisdom, world, knowledge, heavens",
@@ -121,6 +133,7 @@
          "hints" : "Proverbs 3: 19 The Lord by wisdom hath founded the earth; by understanding hath he established the heavens."
       },
       {
+         "id" : "13",
          "question" : "Length of days is in her ...........; and in her .......... riches and ...........",
          "opta" : "right hand, left hand, honour",
          "optb" : "left hand, right hand, honour",
@@ -131,6 +144,7 @@
          "hints" : "Proverbs 3:16 Length of days is in her right hand; and in her left hand riches and honour."
       },
       {
+         "id" : "14",
          "question" : "Say not unto thy ............., Go, and come again, and tomorrow I will give; ............... it by thee.",
          "opta" : "love ones, when thou have",
          "optb" : "neighbours, when thou hast",
@@ -141,6 +155,7 @@
          "hints" : "Proverbs 3:28 Say not unto thy neighbour, Go, and come again, and tomorrow I will give; when thou hast it by thee."
       },
       {
+         "id" : "15",
          "question" : "The curse of the Lord is in the .................: but he blesseth the ............... of the just.",
          "opta" : "house of the wicked, habitation",
          "optb" : "house of the evil one, habitation",
@@ -151,6 +166,7 @@
          "hints" : "Proverbs 3:33  The curse of the Lord is in the house of the wicked: but he blesseth the habitation of the just."
       },
       {
+         "id" : "16",
          "question" : "Envy thou not the ......................, and choose none of his ways.",
          "opta" : "oppressor",
          "optb" : "failure",
@@ -161,6 +177,7 @@
          "hints" : "Proverbs 3: 31 Envy thou not the oppressor, and choose none of his ways."
       },
       {
+         "id" : "17",
          "question" : "........ with a man without ..........., if he have done thee ............",
          "opta" : "Strive not, cause, no harm",
          "optb" : "Be happy, envy, no harm",
@@ -171,6 +188,7 @@
          "hints" : "Proverbs 3:30 Strive not with a man without cause, if he have done thee no harm."
       },
       {
+         "id" : "18",
          "question" : "For the froward is ........ to the Lord: but his .......... is with the .....................",
          "opta" : "abomination, secret, righteous",
          "optb" : "abomination, needs, righteous",
@@ -181,6 +199,7 @@
          "hints" : "Proverbs 3:32 For the froward is abomination to the Lord: but his secret is with the righteous."
       },
       {
+         "id" : "19",
          "question" : "For I give you ........, forsake ye not my ........",
          "opta" : "good doctrine, law",
          "optb" : "good law, doctrine",
@@ -191,6 +210,7 @@
          "hints" : "Proverbs 4:2 For I give you good doctrine, forsake ye not my law."
       },
       {
+         "id" : "20",
          "question" : "Then he ........... , and he said to me, Take hold of my ........ with all your heart; keep my .........., and you will live.",
          "opta" : "enlight me, commands, saying",
          "optb" : "taught me, advices, commandments",
@@ -201,6 +221,7 @@
          "hints" : "Proverbs 4:4 Then he taught me, and he said to me, Take hold of my words with all your heart; keep my commands, and you will live."
       },
       {
+         "id" : "21",
          "question" : "When you ......., your steps will not be ......; when you run, you will not ........",
          "opta" : "walk, hampered, stumble",
          "optb" : "obey, move, fall",
@@ -211,6 +232,7 @@
          "hints" : "Proverbs 4:12 When you walk, your steps will not be hampered;\r\n    when you run, you will not stumble."
       },
       {
+         "id" : "22",
          "question" : "A ...... man will hear, and will increase ..........; and a man of ............ shall attain unto wise counsels:",
          "opta" : "wise, learning, understanding",
          "optb" : "wise, knowing, knowledge",
@@ -221,6 +243,7 @@
          "hints" : "Proverbs 1:5 A wise man will hear, and will increase learning; and a man of understanding shall attain unto wise counsels:"
       },
       {
+         "id" : "23",
          "question" : "The ........... of the Lord is the beginning of .........: but ........... despise wisdom and instruction.",
          "opta" : "fear, knowledge, fools",
          "optb" : "fear, wisdom, fool",
@@ -231,6 +254,7 @@
          "hints" : "Proverbs 1:7  The fear of the Lord is the beginning of knowledge: but fools despise wisdom and instruction."
       },
       {
+         "id" : "24",
          "question" : "My son, hear the .......... of thy father, and .......... not the law of thy mother:",
          "opta" : "saying, shun down",
          "optb" : "saying, forsake",
@@ -241,6 +265,7 @@
          "hints" : "Proverbs 1:8  My son, hear the instruction of thy father, and forsake not the law of thy mother:"
       },
       {
+         "id" : "25",
          "question" : "My son, if ............ entice thee, ...... thou not.",
          "opta" : "sinners, consent",
          "optb" : "sinner, agree",
@@ -251,6 +276,7 @@
          "hints" : "Proverbs 1:10  My son, if sinners entice thee, consent thou not."
       },
       {
+         "id" : "26",
          "question" : "Then shall they call upon me, but I will ..............; they shall ..........., but they shall not find me:",
          "opta" : "not answer, seek",
          "optb" : "answer, call upon me",
@@ -261,6 +287,7 @@
          "hints" : "Proverbs 1:28  Then shall they call upon me, but I will not answer; they shall seek me early, but they shall not find me:"
       },
       {
+         "id" : "27",
          "question" : "For that they .......... knowledge, and did .......... the fear of the Lord:",
          "opta" : "loveth, choose",
          "optb" : " hated, choose",
@@ -271,6 +298,7 @@
          "hints" : "Proverbs 1:29  For that they hated knowledge, and did not choose the fear of the Lord:"
       },
       {
+         "id" : "28",
          "question" : "Therefore shall they eat of the fruit of their own way, and be filled with their ...........",
          "opta" : "own devices",
          "optb" : "lust",
@@ -281,6 +309,7 @@
          "hints" : "Proverbs 1:31  Therefore shall they eat of the fruit of their own way, and be filled with their own devices."
       },
       {
+         "id" : "29",
          "question" : "For the turning away of the simple shall slay them, and the ......... of fools shall ......... them.",
          "opta" : "prosperity, destroy",
          "optb" : "prosperity, saved",
@@ -291,6 +320,7 @@
          "hints" : "Proverbs 1:32  For the turning away of the simple shall slay them, and the prosperity of fools shall destroy them."
       },
       {
+         "id" : "30",
          "question" : "But whoso ......... unto me shall dwell safely, and shall be ....... from fear of evil.",
          "opta" : "hearkeneth, quiet",
          "optb" : "harken, quiet",
@@ -301,6 +331,7 @@
          "hints" : "Proverbs 1:33  But whoso hearkeneth unto me shall dwell safely, and shall be quiet from fear of evil."
       },
       {
+         "id" : "31",
          "question" : "For the Lord giveth ......: out of his mouth cometh .......... and ...................",
          "opta" : "knowledge, wisdom, understanding",
          "optb" : "wisdom, knowledge, understanding",
@@ -311,6 +342,7 @@
          "hints" : "Proverbs 2:6  For the Lord giveth wisdom: out of his mouth cometh knowledge and understanding."
       },
       {
+         "id" : "32",
          "question" : "He layeth up sound wisdom for the .......: he is a buckler to them that walk uprightly.",
          "opta" : "christian",
          "optb" : "righteous",
@@ -321,6 +353,7 @@
          "hints" : "Proverbs 2:7  He layeth up sound wisdom for the righteous: he is a buckler to them that walk uprightly."
       },
       {
+         "id" : "33",
          "question" : "When wisdom entereth into thine heart, and knowledge is pleasant unto thy ..........;",
          "opta" : "system",
          "optb" : "body",
@@ -331,6 +364,7 @@
          "hints" : "Proverbs 2:10  When wisdom entereth into thine heart, and knowledge is pleasant unto thy soul;"
       },
       {
+         "id" : "34",
          "question" : ".............. shall preserve thee, .............. shall keep thee:",
          "opta" : "Discretion, understanding",
          "optb" : "Lord, truth",
@@ -341,6 +375,7 @@
          "hints" : "Proverbs 2:11  Discretion shall preserve thee, understanding shall keep thee:"
       },
       {
+         "id" : "35",
          "question" : "To deliver thee from the way of the evil man, from the man that speaketh ...........;",
          "opta" : "froward things",
          "optb" : "truth",
@@ -351,6 +386,7 @@
          "hints" : "Proverbs 2:12  To deliver thee from the way of the evil man, from the man that speaketh froward things;"
       },
       {
+         "id" : "36",
          "question" : "For her house ............ unto death, and her paths unto the dead.",
          "opta" : "inclineth",
          "optb" : "lead",
@@ -361,6 +397,7 @@
          "hints" : "Proverbs 2:18  For her house inclineth unto death, and her paths unto the dead."
       },
       {
+         "id" : "37",
          "question" : "For the ........... shall dwell in the land, and the .......... shall remain in it.",
          "opta" : "upright, perfect",
          "optb" : "youths, christian",
@@ -371,6 +408,7 @@
          "hints" : "Proverbs 2:21  For the upright shall dwell in the land, and the perfect shall remain in it."
       },
       {
+         "id" : "38",
          "question" : "But the ........ shall be cut off from the earth, and the .............. shall be rooted out of it.",
          "opta" : "devil, calamity",
          "optb" : "evil one, transgressors",
@@ -381,6 +419,7 @@
          "hints" : "Proverbs 2:22  But the wicked shall be cut off from the earth, and the transgressors shall be rooted out of it."
       },
       {
+         "id" : "39",
          "question" : "For I give you .........., forsake ye not my law.",
          "opta" : "good doctrine",
          "optb" : "good saying",
@@ -391,6 +430,7 @@
          "hints" : "Proverbs 4:2  For I give you good doctrine, forsake ye not my law."
       },
       {
+         "id" : "40",
          "question" : "He taught me also, and said unto me, Let thine heart retain my words: keep my .............., and live.",
          "opta" : "commandments",
          "optb" : "saying",
@@ -401,6 +441,7 @@
          "hints" : "Proverbs 4:4  He taught me also, and said unto me, Let thine heart retain my words: keep my commandments, and live."
       },
       {
+         "id" : "41",
          "question" : "Get ........., get .......: forget it not; neither decline from the words of my mouth.",
          "opta" : "understanding, wisdom",
          "optb" : "wisdom, understanding",
@@ -411,6 +452,7 @@
          "hints" : "Proverbs 4:5  Get wisdom, get understanding: forget it not; neither decline from the words of my mouth."
       },
       {
+         "id" : "42",
          "question" : "Forsake her not, and she shall ............ thee: love her, and she shall keep thee.",
          "opta" : "preserve",
          "optb" : "love",
@@ -421,6 +463,7 @@
          "hints" : "Proverbs 4:6  Forsake her not, and she shall preserve thee: love her, and she shall keep thee."
       },
       {
+         "id" : "43",
          "question" : "Wisdom is the principal thing; therefore get wisdom: and with all thy getting get ...........",
          "opta" : "understanding",
          "optb" : "knowledge",
@@ -431,6 +474,7 @@
          "hints" : "Proverbs 4:7  Wisdom is the principal thing; therefore get wisdom: and with all thy getting get understanding."
       },
       {
+         "id" : "44",
          "question" : "Exalt her, and she shall promote thee: she shall bring thee to ..........., when thou dost embrace her.",
          "opta" : "honour",
          "optb" : "crown",
@@ -441,6 +485,7 @@
          "hints" : "Proverbs 4:8  Exalt her, and she shall promote thee: she shall bring thee to honour, when thou dost embrace her."
       },
       {
+         "id" : "45",
          "question" : "She shall give to thine head an ......... of grace: a crown of .......... shall she deliver to thee.",
          "opta" : "ornament, glory ",
          "optb" : "ornament, honour",
@@ -451,6 +496,7 @@
          "hints" : "Proverbs 4:9 She shall give to thine head an ornament of grace: a crown of glory shall she deliver to thee."
       },
       {
+         "id" : "46",
          "question" : "Hear, O my son, and receive my ............; and the years of thy life shall be many.",
          "opta" : "sayings",
          "optb" : "words",
@@ -461,6 +507,7 @@
          "hints" : "Proverbs 4:10  Hear, O my son, and receive my sayings; and the years of thy life shall be many."
       },
       {
+         "id" : "47",
          "question" : "I have taught thee in the way of ..........; I have led thee in right paths.",
          "opta" : "Lord",
          "optb" : "God",
@@ -471,6 +518,7 @@
          "hints" : "Proverbs 4:11  I have taught thee in the way of wisdom; I have led thee in right paths."
       },
       {
+         "id" : "48",
          "question" : "When thou goest, thy steps shall not be .........; and when thou runnest, thou shalt not .......",
          "opta" : "straitened, stumble",
          "optb" : "moved, slip",
@@ -481,6 +529,7 @@
          "hints" : "Proverbs 4:12  When thou goest, thy steps shall not be straitened; and when thou runnest, thou shalt not stumble."
       },
       {
+         "id" : "49",
          "question" : "Enter not into the ...... of the wicked, and go not in the way of evil men.",
          "opta" : "path",
          "optb" : "way",
@@ -491,6 +540,7 @@
          "hints" : "Proverbs 4:14  Enter not into the path of the wicked, and go not in the way of evil men."
       },
       {
+         "id" : "60",
          "question" : "For they eat the bread of ........., and drink the wine of ................",
          "opta" : "wickedness, violence",
          "optb" : "rich, poor",
@@ -501,6 +551,7 @@
          "hints" : "Proverbs 4:17  For they eat the bread of wickedness, and drink the wine of violence."
       },
       {
+         "id" : "51",
          "question" : "But the path of the just is as the .............., that shineth more and more unto the ..... day.",
          "opta" : "shining light, perfect",
          "optb" : "light, nice",
@@ -511,6 +562,7 @@
          "hints" : "Proverbs 4:18  But the path of the just is as the shining light, that shineth more and more unto the perfect day."
       },
       {
+         "id" : "52",
          "question" : "The way of the .......... is as .............: they know not at what they .............",
          "opta" : "wicked, darkness, stumble",
          "optb" : "righteous, light, inherit",
@@ -521,6 +573,7 @@
          "hints" : "Proverbs 4:19  The way of the wicked is as darkness: they know not at what they stumble."
       },
       {
+         "id" : "53",
          "question" : "My son, attend to my words; incline thine ear unto my ............",
          "opta" : "sayings",
          "optb" : "prophecies",
@@ -531,6 +584,7 @@
          "hints" : "Proverbs 4:20  My son, attend to my words; incline thine ear unto my sayings."
       },
       {
+         "id" : "54",
          "question" : "Let them ............ from thine eyes; keep them in the midst of thine heart.",
          "opta" : "not depart",
          "optb" : "depart",
@@ -541,6 +595,7 @@
          "hints" : "Proverbs 4:21  Let them not depart from thine eyes; keep them in the midst of thine heart."
       },
       {
+         "id" : "55",
          "question" : "Keep thy heart with all ...........; for out of it are the ............ of life.",
          "opta" : "diligence, issues",
          "optb" : "dilligence, issue",
@@ -551,6 +606,7 @@
          "hints" : "Proverbs 4:23  Keep thy heart with all diligence; for out of it are the issues of life."
       },
       {
+         "id" : "56",
          "question" : "Put away from thee a ........., and perverse ..... put far from thee.",
          "opta" : "froward mouth, lips",
          "optb" : "evil thought, lip",
@@ -561,6 +617,7 @@
          "hints" : "Proverbs 4:24  Put away from thee a froward mouth, and perverse lips put far from thee."
       },
       {
+         "id" : "57",
          "question" : "My son, attend unto my ........, and bow thine ear to my ...............:",
          "opta" : "wisdom, understanding",
          "optb" : "understanding, wisdom",
@@ -571,6 +628,7 @@
          "hints" : "Proverbs 5:1 My son, attend unto my wisdom, and bow thine ear to my understanding:"
       },
       {
+         "id" : "58",
          "question" : "For the lips of a strange woman drop as an ......., and her mouth is smoother than oil:",
          "opta" : "honeycomb",
          "optb" : "honey",
@@ -581,6 +639,7 @@
          "hints" : "Proverbs 5:3 For the lips of a strange woman drop as an honeycomb, and her mouth is smoother than oil:"
       },
       {
+         "id" : "59",
          "question" : "But her end is bitter as ........, sharp as a two-edged sword.",
          "opta" : "wormwood",
          "optb" : "bitter leave",
@@ -591,6 +650,7 @@
          "hints" : "Proverbs 5:4 But her end is bitter as wormwood, sharp as a two-edged sword."
       },
       {
+         "id" : "60",
          "question" : "Jesus answered and said unto him, Verily, verily, I say unto thee, Except a man ..........., he cannot see the kingdom of God.",
          "opta" : "repent",
          "optb" : "be born again",
@@ -601,6 +661,7 @@
          "hints" : "John 3:3 Jesus answered and said unto him, Verily, verily, I say unto thee, Except a man be born again, he cannot see the kingdom of God."
       },
       {
+         "id" : "61",
          "question" : "Jesus answered, Verily, verily, I say unto thee, Except a man be born of .............. and of the ........., he cannot enter into the kingdom of God.",
          "opta" : "water, Spirit",
          "optb" : "water, God",
@@ -611,6 +672,7 @@
          "hints" : "John 3:5 Jesus answered, Verily, verily, I say unto thee, Except a man be born of water and of the Spirit, he cannot enter into the kingdom of God."
       },
       {
+         "id" : "62",
          "question" : "That which is born of the flesh is flesh; and that which is born of the ........... is .",
          "opta" : "Spirit, spirit",
          "optb" : "God, of God",
@@ -621,6 +683,7 @@
          "hints" : "John 3:6 That which is born of the flesh is flesh; and that which is born of the Spirit is spirit."
       },
       {
+         "id" : "63",
          "question" : "The wind bloweth where it listeth, and thou hearest the sound thereof, but canst not tell whence it cometh, and whither it goeth: so is every one that is born of the ......",
          "opta" : "Spirit",
          "optb" : "flesh",
@@ -631,6 +694,7 @@
          "hints" : "John 3:8 The wind bloweth where it listeth, and thou hearest the sound thereof, but canst not tell whence it cometh, and whither it goeth: so is every one that is born of the Spirit."
       },
       {
+         "id" : "64",
          "question" : "If I have told you earthly things, and ye believe not, how shall ye believe, if I tell you of ...............?",
          "opta" : "heavenly things",
          "optb" : "the truth",
@@ -641,6 +705,7 @@
          "hints" : "John 3:12 If I have told you earthly things, and ye believe not, how shall ye believe, if I tell you of heavenly things?"
       },
       {
+         "id" : "65",
          "question" : "And ........ hath ascended up to heaven, but he that came down from heaven, even the Son of man which is in heaven.",
          "opta" : "no man",
          "optb" : "Jesus",
@@ -651,6 +716,7 @@
          "hints" : "John 3:13 And no man hath ascended up to heaven, but he that came down from heaven, even the Son of man which is in heaven."
       },
       {
+         "id" : "66",
          "question" : "For God so loved the world, that he gave his only begotten Son, that whosoever believeth in him should not perish, but have .....................",
          "opta" : "everlasting life",
          "optb" : "good life",
@@ -661,6 +727,7 @@
          "hints" : "John 3:16 For God so loved the world, that he gave his only begotten Son, that whosoever believeth in him should not perish, but have everlasting life."
       },
       {
+         "id" : "67",
          "question" : "That whosoever believeth in him should ........., but have eternal life.",
          "opta" : " not perish",
          "optb" : "perish not",
@@ -671,6 +738,7 @@
          "hints" : "John 3:15 That whosoever believeth in him should not perish, but have eternal life."
       },
       {
+         "id" : "68",
          "question" : "For God sent not his Son into the world to ........... the world; but that the world through him might be saved.",
          "opta" : "condemn",
          "optb" : "destroy",
@@ -681,6 +749,7 @@
          "hints" : "John 3:17 For God sent not his Son into the world to condemn the world; but that the world through him might be saved."
       },
       {
+         "id" : "69",
          "question" : "He that believeth on him is not ...........: but he that believeth not is ........... already, because he hath not believed in the name of the only begotten Son of God.",
          "opta" : "condemn, condemned",
          "optb" : "condemned, condemned",
@@ -691,6 +760,7 @@
          "hints" : "John 3:18 He that believeth on him is not condemned: but he that believeth not is condemned already, because he hath not believed in the name of the only begotten Son of God."
       },
       {
+         "id" : "70",
          "question" : "And this is the ......, that light is come into the world, and men loved darkness rather than light, because their deeds were evil.",
          "opta" : "condemnation",
          "optb" : "evil saying",
@@ -701,6 +771,7 @@
          "hints" : "John 3:19 And this is the condemnation, that light is come into the world, and men loved darkness rather than light, because their deeds were evil."
       },
       {
+         "id" : "71",
          "question" : "And John also was baptizing in ......... near to Salim, because there was much water there: and they came, and were baptized.",
          "opta" : "Aenon",
          "optb" : "river jordan",
@@ -711,6 +782,7 @@
          "hints" : "John 3:23 And John also was baptizing in Aenon near to Salim, because there was much water there: and they came, and were baptized."
       },
       {
+         "id" : "72",
          "question" : "For ......... was not yet cast into prison.",
          "opta" : "John",
          "optb" : "Peter",
@@ -721,6 +793,7 @@
          "hints" : "John 3:24 For John was not yet cast into prison."
       },
       {
+         "id" : "73",
          "question" : "John answered and said, A man can receive ......, except it be given him from .............",
          "opta" : "nothing, heaven",
          "optb" : "abundantly, heaven",
@@ -731,6 +804,7 @@
          "hints" : "John 3:27 John answered and said, A man can receive nothing, except it be given him from heaven."
       },
       {
+         "id" : "74",
          "question" : "The Father loveth the Son, and hath given ......... into his hand.",
          "opta" : "all things",
          "optb" : "all powers",
@@ -741,6 +815,7 @@
          "hints" : "John 3:35 The Father loveth the Son, and hath given all things into his hand."
       },
       {
+         "id" : "74",
          "question" : "He that believeth on the Son hath ............: and he that believeth not the Son shall not see life; but the ........ of God abideth on him.",
          "opta" : "life, wrath",
          "optb" : "everlasting life, wrath",
@@ -751,6 +826,7 @@
          "hints" : "John 3:36 He that believeth on the Son hath everlasting life: and he that believeth not the Son shall not see life; but the wrath of God abideth on him."
       },
       {
+         "id" : "75",
          "question" : "............... to God, and he will draw nigh to you. Cleanse your hands, .............; and purify your hearts, ye double minded.",
          "opta" : "Draw nigh, ye sinners",
          "optb" : "Draw, sinners",
@@ -761,6 +837,7 @@
          "hints" : "James 4:8 Draw nigh to God, and he will draw nigh to you. Cleanse your hands, ye sinners; and purify your hearts, ye double minded."
       },
       {
+         "id" : "76",
          "question" : "And let us not be weary in well doing: for in due season we shall ........, if we faint not.",
          "opta" : "reap",
          "optb" : "harvest",
@@ -769,9 +846,9 @@
          "answer" : "reap",
          "stage" : 1,
          "hints" : "Galatians 6:9 And let us not be weary in well doing: for in due season we shall reap, if we faint not."
-      }
- ,
+      },
       {
+         "id" : "77",
          "question" : "Brethren, if a man be overtaken in a fault, ye which are spiritual, restore such an one in the spirit of meekness; considering thyself, lest thou also be tempted.",
          "opta" : "reap",
          "optb" : "harvest",
@@ -780,18 +857,6 @@
          "answer" : "reap",
          "stage" : 1,
          "hints" : "Galatians 6:1 Brethren, if a man be overtaken in a fault, ye which are spiritual, restore such an one in the spirit of meekness; considering thyself, lest thou also be tempted."
-      }
-
-,
-      {
-         "question" : "Bear ye one another's burdens, and so fulfil the law of Christ.",
-         "opta" : "",
-         "optb" : "",
-         "optc" : "",
-         "optd" : "",
-         "answer" : "",
-         "stage" : 1,
-         "hints" : "Galatians 6:2 Bear ye one another's burdens, and so fulfil the law of Christ."
       }
    ]
 }
